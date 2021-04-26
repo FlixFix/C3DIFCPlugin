@@ -1,0 +1,10 @@
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\bin\Release\C3DIfcAlignmentPlugIn.dll
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\bin\Release\C3DIfcAlignmentPlugIn.pdb
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.Forms.License.resources
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.Properties.Resources.resources
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.csproj.GenerateResource.Cache
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.dll
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.pdb
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\obj\Release\C3DIfcAlignmentPlugIn.g.resources
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\bin\Release\IFCSharpEarlyBinding.dll
+C:\Users\RaMPfiE\Documents\dev\C3DIfcAlignmentPlugIn\Plug-In\C3DIfcAlignmentPlugIn\bin\Release\IFCSharpEarlyBinding.pdb
