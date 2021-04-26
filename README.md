@@ -57,6 +57,3 @@ If not, contact <f.rampf@tum.de>.
 
 ## Copyright ##
 Copyright (c) 2017 Felix Rampf - <f.rampf@tum.de>
-
-
-![Logo_small](images/Logo_small.png)
